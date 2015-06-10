@@ -1,0 +1,10 @@
+### CHANGELOG ###
+Jetty_RMD.py - Test script to check Jetty HttpParser Error Remote Memory Disclosure
+This file describes the various changes implemented in all the versions of Jetty_RMD.py.
+
+Version 1.10 build 20150611:
+- Added support for SSL hosts
+- Improved error handling
+
+Version 1.00 build 20150610:
+- Original base code
