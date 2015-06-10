@@ -5,8 +5,8 @@ Email: indian.hackerz.ash@gmail.com
 Please report if any errors on above email id for improvements within the script
 
 Usage: Jetty_RMD.py Hostname Port
-Example: Jetty_RMD.py google.com 443
-Example: Jetty_RMD.py 10.10.10.10 443
+Example: Jetty_RMD.py google.com 80
+Example: Jetty_RMD.py 10.10.10.10 80
 
 -----------------------------------------------------------------------------------------
 
